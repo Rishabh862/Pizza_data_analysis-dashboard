@@ -1,10 +1,13 @@
 🍕 Pizza_data_analysis-dashboard
+
 📌Project Overview:
+
    Identify top-selling pizza categories and items.Analyze sales trends by day, week, and month. Find peak ordering times (high/low demand hours).
    Track revenue contribution by pizza size, type, and category.Provide an interactive dashboard for easy business decision-making.
 
    
-🎯 Objectives
+🎯 Objectives:
+
    Identify top-selling pizza categories and items.
    
    Analyze sales trends by day, week, and month.
@@ -17,6 +20,7 @@
 
    
 📊 Dashboard Features:
+
    KPI Cards: Total Revenue, Total Orders, Average Order Value.
    
    Category Analysis: Hot-selling vs. least-selling pizzas.
@@ -26,6 +30,7 @@
    Size Preference: Revenue share by pizza size.
    
 🛠️ Tools & Technologies:
+
    Pizza_Sales_Dashboard.pbix → Power BI dashboard file.
    
    pizza_sales_dataset.csv → Sample dataset used.
@@ -33,6 +38,7 @@
    README.md → Project documentation (this file).
    
 🔮 Future Improvements:
+
    Add customer segmentation analysis.
    
    Forecast future sales using time series models.
