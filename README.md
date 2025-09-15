@@ -51,4 +51,4 @@
    decisions to optimize sales performance and strategy.
    
 📸 Dashboard Preview:
-    Show what the dashboard look like:
+    Show what the dashboard look like: [alt.text](https://github.com/Rishabh862/Pizza_data_analysis-dashboard/blob/main/iumnhbgvc%5B1%5D_page-0001.jpg)
